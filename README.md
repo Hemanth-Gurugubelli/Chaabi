@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# KeyMaster Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web-based touch typing application built using ReactJS. The application allows users to practice typing the keys on the keyboard, specifically focusing on the 8 keys (asdfjkl;). It provides a typing box for users to input the keys and visually displays the next keys they are supposed to type.
+
+## Features
+
+- Typing box for users to input keys
+- Visual display of the next keys to type
+- Measurement of the number of keys pressed in a 5-minute practice window
+- Calculation of accuracy percentage
+
 
 ## Available Scripts
 
